@@ -1,0 +1,15 @@
+/*
+Theme Name: VegaCode
+ThemeURI: wingsauce.net
+Description: A Vega child theme that makes the page look like a old computer terminal.
+Author: Jeremy Martin
+Author URI: wingsauce.net
+Template: vega
+Version: 1.0.0
+*/
+
+body{font-family: 'Courier New',monospace; font-size: 14px; line-height: 24px; color: yellowgreen;}
+.bg-white{ background-color: black}
+a{ color:yellowgreen}
+a:focus{color:green}
+.btn{ font-family: 'Courier New',monospace;}
